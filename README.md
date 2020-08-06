@@ -4,7 +4,7 @@ The Computer Pointer Controller project demonstrates how to run multiple models 
 
 ## The Pipeline
 The flow of data to coordinate will look like this :
-![data flow diagram](./resources/pipeline.png)
+![data flow diagram](starter/resources/pipeline.png)
 
 ## Project Set Up and Installation
 *TODO:* Explain the setup procedures to run your project. For instance, this can include your project directory structure, the models you need to download and where to place them etc. Also include details about how to install the dependencies your project requires.
